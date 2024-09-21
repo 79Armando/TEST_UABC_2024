@@ -46,7 +46,7 @@ end
 
 end
 
-seg7 seg7(.digit(display_value), segments(segment_reg));
+    seg7 seg7(.digit(display_value), .segments(segment_reg));
 
 assign uio_out = 0;
 
