@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+scroll name, letter by letter.
 
 ## How to test
 
-Explain how to use your project
+with fpga.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+display 7 segments
